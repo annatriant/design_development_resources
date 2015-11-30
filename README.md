@@ -20,7 +20,7 @@
 
 ## Learning
 - [Introduction to npm as a Build Tool](https://app.pluralsight.com/library/courses/npm-build-tool-introduction/table-of-contents)
-- (10 Recommended eBooks for UX/UI Designers)[https://medium.com/muzli-design-inspiration/10-recommended-ebooks-for-ux-ui-designers-f296838b202c#.4rprj752e]
+- [10 Recommended eBooks for UX/UI Designers](https://medium.com/muzli-design-inspiration/10-recommended-ebooks-for-ux-ui-designers-f296838b202c#.4rprj752e)
 
 Gulp
 ---
