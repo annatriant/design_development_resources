@@ -22,6 +22,12 @@
 - [Introduction to npm as a Build Tool](https://app.pluralsight.com/library/courses/npm-build-tool-introduction/table-of-contents)
 - (10 Recommended eBooks for UX/UI Designers)[https://medium.com/muzli-design-inspiration/10-recommended-ebooks-for-ux-ui-designers-f296838b202c#.4rprj752e]
 
+Gulp
+---
+- [Building With Gulp](http://www.smashingmagazine.com/2014/06/building-with-gulp/)
+- [Getting started with gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
+- [Gulp Build System. Part 1: Fundamentals](http://joellongie.com/gulp-build-system-fundamentals/)
+
 ## Setup
 - [Vagrant](https://docs.vagrantup.com/v2/why-vagrant/index.html)
 - [Yeoman: Web app generator](https://github.com/yeoman/generator-gulp-webapp#readme)
